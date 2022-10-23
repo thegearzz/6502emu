@@ -12,7 +12,7 @@ function parseOpCode(opCode){
 		case BCC:
 			//branch on carry clear
 			break:
-		case.BCS:
+		case BCS:
 			//branch on carry set
 			break:
 		case BEQ:
